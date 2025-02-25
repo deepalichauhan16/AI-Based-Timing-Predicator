@@ -1,30 +1,91 @@
-<h1 align="center">Hi 👋, I'm Deepali Chauhan</h1>
-<h3 align="center">Exploring the Intersection of Microprocessors and AI Acceleration 🚀💡</h3>
+Here is a **README.md** file for your GitHub repository:  
 
-- 🔭 I’m currently working on **Microprocessor architecture, ML model deployment on edge devices, and cloud-based AI solutions.**
+---
 
-- 🌱 I’m currently learning **Computer Architecture, FPGA programming, and distributed AI on the cloud.**
+## **AI Timing Violation Prediction**  
+🚀 **Predict Logic Depth in Digital Circuits using Machine Learning**  
 
-- 👯 I’m looking to collaborate on **Silicon Engineering, Microprocessor Design, and Cloud-Native AI applications.**
+### **📌 Overview**  
+This project builds a **machine learning model** to predict **logic depth** in digital circuits based on features like **Fan In, Fan Out, Gate Count, and Path Length**.  
 
-- 🤝 I’m looking for help with **Chip design optimization for AI workloads and hardware-accelerated machine learning**
+🔹 **Features:**  
+✅ **Dataset Generation** – Automatically generates a dataset of circuit parameters.  
+✅ **Model Training** – Trains a **Random Forest Regressor** on the dataset.  
+✅ **User Input Friendly** – Predicts logic depth using interactive inputs.  
+✅ **Fully Automated Workflow** – From dataset creation to prediction.  
 
-- 💬 Ask me about **Microprocessor design, ML acceleration, and cloud-based AI deployments.**
+---
 
-- 📫 How to reach me **deepalic1612@gmail.com**
+### **📂 Project Structure**
+```
+📁 AI-Timing-Violation
+│── 📄 project.py         # Main Python script (dataset creation, training, prediction)
+│── 📄 dataset.json       # Auto-generated dataset file
+│── 📄 model.pkl          # Trained ML model (saved for predictions)
+│── 📄 README.md          # Project documentation
+```
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1z6-kLvsnb5tm1OhJHQV-j4-qLkkqR5cv/view?usp=sharing](https://drive.google.com/file/d/1z6-kLvsnb5tm1OhJHQV-j4-qLkkqR5cv/view?usp=sharing)
+---
 
-- ⚡ Fun fact **I dream of designing a custom AI chip someday! 🚀**
+### **⚡ Setup Instructions**
+#### **1️⃣ Install Dependencies**
+Make sure you have Python installed. Then install required libraries:
+```bash
+pip install pandas scikit-learn joblib
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deepali-chauhan-b7881230b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepali-chauhan-b7881230b" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/deepali_1612" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="deepali_1612" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/deepalichauhan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepalichauhan11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deepalichauhan1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepalichauhan1612" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@deepalichauhan1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@deepalichauhan1612" height="30" width="40" /></a>
-</p>
+#### **2️⃣ Run the Program**
+Execute the script and follow the interactive menu:
+```bash
+python project.py
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+#### **3️⃣ Select an Option**
+```
+🔹 Select an option:
+1️⃣ Create Dataset
+2️⃣ Train Model
+3️⃣ Predict Logic Depth
+4️⃣ Exit
+```
+
+✅ **Example Prediction:**  
+```
+🔹 Enter Circuit Parameters:
+Fan In: 10
+Fan Out: 5
+Gate Count: 30
+Path Length: 10
+
+🟢 Predicted Logic Depth: 13.62
+```
+
+---
+
+### **🔧 How It Works**
+1. **Dataset Creation**: Generates a dataset of `num_samples` circuit parameters.  
+2. **Model Training**: Trains a **RandomForestRegressor** to predict logic depth.  
+3. **User Input Prediction**: Takes input parameters and predicts **logic depth**.  
+
+---
+
+### **🛠 Technologies Used**
+- 🐍 Python  
+- 📊 Pandas  
+- 🤖 Scikit-learn (Machine Learning)  
+- 📂 Joblib (Model Saving)  
+
+---
+
+### **📌 Contributing**
+Contributions are welcome! Fork the repo, make improvements, and submit a pull request.  
+
+### **🎯 Conclusion**  
+This project provides a **robust machine learning approach** to predict **logic depth** in digital circuits, making the **timing violation analysis more efficient and data-driven**. By leveraging **automated dataset generation, model training, and user-friendly interaction**, it simplifies the complex process of circuit evaluation.  
+
+🚀 **Next Steps:**  
+🔹 Expand the dataset for better accuracy 📈  
+🔹 Fine-tune the model with advanced ML techniques 🤖  
+🔹 Deploy as a web app for real-time predictions 🌐  
+
+💡 **Keep innovating, keep coding!** 🔥🚀

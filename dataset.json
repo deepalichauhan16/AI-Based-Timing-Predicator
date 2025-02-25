@@ -1,0 +1,702 @@
+[
+    {
+        "fan_in": 20,
+        "fan_out": 15,
+        "gate_count": 121,
+        "path_length": 26,
+        "logic_depth": 8
+    },
+    {
+        "fan_in": 15,
+        "fan_out": 22,
+        "gate_count": 176,
+        "path_length": 44,
+        "logic_depth": 13
+    },
+    {
+        "fan_in": 40,
+        "fan_out": 8,
+        "gate_count": 112,
+        "path_length": 47,
+        "logic_depth": 19
+    },
+    {
+        "fan_in": 17,
+        "fan_out": 19,
+        "gate_count": 167,
+        "path_length": 14,
+        "logic_depth": 14
+    },
+    {
+        "fan_in": 13,
+        "fan_out": 16,
+        "gate_count": 90,
+        "path_length": 32,
+        "logic_depth": 12
+    },
+    {
+        "fan_in": 47,
+        "fan_out": 6,
+        "gate_count": 50,
+        "path_length": 32,
+        "logic_depth": 22
+    },
+    {
+        "fan_in": 24,
+        "fan_out": 13,
+        "gate_count": 59,
+        "path_length": 42,
+        "logic_depth": 22
+    },
+    {
+        "fan_in": 10,
+        "fan_out": 17,
+        "gate_count": 129,
+        "path_length": 31,
+        "logic_depth": 14
+    },
+    {
+        "fan_in": 40,
+        "fan_out": 7,
+        "gate_count": 139,
+        "path_length": 6,
+        "logic_depth": 21
+    },
+    {
+        "fan_in": 44,
+        "fan_out": 15,
+        "gate_count": 136,
+        "path_length": 18,
+        "logic_depth": 17
+    },
+    {
+        "fan_in": 48,
+        "fan_out": 18,
+        "gate_count": 169,
+        "path_length": 20,
+        "logic_depth": 14
+    },
+    {
+        "fan_in": 10,
+        "fan_out": 13,
+        "gate_count": 30,
+        "path_length": 11,
+        "logic_depth": 21
+    },
+    {
+        "fan_in": 37,
+        "fan_out": 21,
+        "gate_count": 199,
+        "path_length": 45,
+        "logic_depth": 9
+    },
+    {
+        "fan_in": 35,
+        "fan_out": 8,
+        "gate_count": 173,
+        "path_length": 5,
+        "logic_depth": 17
+    },
+    {
+        "fan_in": 47,
+        "fan_out": 10,
+        "gate_count": 152,
+        "path_length": 41,
+        "logic_depth": 19
+    },
+    {
+        "fan_in": 37,
+        "fan_out": 14,
+        "gate_count": 181,
+        "path_length": 16,
+        "logic_depth": 13
+    },
+    {
+        "fan_in": 44,
+        "fan_out": 11,
+        "gate_count": 113,
+        "path_length": 6,
+        "logic_depth": 8
+    },
+    {
+        "fan_in": 45,
+        "fan_out": 22,
+        "gate_count": 192,
+        "path_length": 30,
+        "logic_depth": 24
+    },
+    {
+        "fan_in": 8,
+        "fan_out": 7,
+        "gate_count": 35,
+        "path_length": 47,
+        "logic_depth": 19
+    },
+    {
+        "fan_in": 19,
+        "fan_out": 29,
+        "gate_count": 78,
+        "path_length": 23,
+        "logic_depth": 17
+    },
+    {
+        "fan_in": 44,
+        "fan_out": 23,
+        "gate_count": 35,
+        "path_length": 12,
+        "logic_depth": 8
+    },
+    {
+        "fan_in": 35,
+        "fan_out": 6,
+        "gate_count": 116,
+        "path_length": 43,
+        "logic_depth": 22
+    },
+    {
+        "fan_in": 32,
+        "fan_out": 30,
+        "gate_count": 176,
+        "path_length": 41,
+        "logic_depth": 16
+    },
+    {
+        "fan_in": 15,
+        "fan_out": 19,
+        "gate_count": 52,
+        "path_length": 49,
+        "logic_depth": 25
+    },
+    {
+        "fan_in": 9,
+        "fan_out": 21,
+        "gate_count": 113,
+        "path_length": 44,
+        "logic_depth": 10
+    },
+    {
+        "fan_in": 38,
+        "fan_out": 12,
+        "gate_count": 54,
+        "path_length": 44,
+        "logic_depth": 24
+    },
+    {
+        "fan_in": 35,
+        "fan_out": 29,
+        "gate_count": 136,
+        "path_length": 48,
+        "logic_depth": 10
+    },
+    {
+        "fan_in": 12,
+        "fan_out": 12,
+        "gate_count": 30,
+        "path_length": 21,
+        "logic_depth": 20
+    },
+    {
+        "fan_in": 17,
+        "fan_out": 30,
+        "gate_count": 106,
+        "path_length": 31,
+        "logic_depth": 18
+    },
+    {
+        "fan_in": 44,
+        "fan_out": 19,
+        "gate_count": 37,
+        "path_length": 8,
+        "logic_depth": 14
+    },
+    {
+        "fan_in": 16,
+        "fan_out": 30,
+        "gate_count": 45,
+        "path_length": 34,
+        "logic_depth": 11
+    },
+    {
+        "fan_in": 34,
+        "fan_out": 23,
+        "gate_count": 32,
+        "path_length": 24,
+        "logic_depth": 15
+    },
+    {
+        "fan_in": 49,
+        "fan_out": 23,
+        "gate_count": 106,
+        "path_length": 45,
+        "logic_depth": 24
+    },
+    {
+        "fan_in": 36,
+        "fan_out": 24,
+        "gate_count": 191,
+        "path_length": 11,
+        "logic_depth": 11
+    },
+    {
+        "fan_in": 10,
+        "fan_out": 14,
+        "gate_count": 194,
+        "path_length": 38,
+        "logic_depth": 9
+    },
+    {
+        "fan_in": 47,
+        "fan_out": 10,
+        "gate_count": 140,
+        "path_length": 39,
+        "logic_depth": 11
+    },
+    {
+        "fan_in": 49,
+        "fan_out": 6,
+        "gate_count": 120,
+        "path_length": 20,
+        "logic_depth": 17
+    },
+    {
+        "fan_in": 47,
+        "fan_out": 22,
+        "gate_count": 95,
+        "path_length": 44,
+        "logic_depth": 10
+    },
+    {
+        "fan_in": 33,
+        "fan_out": 5,
+        "gate_count": 181,
+        "path_length": 5,
+        "logic_depth": 9
+    },
+    {
+        "fan_in": 26,
+        "fan_out": 22,
+        "gate_count": 55,
+        "path_length": 5,
+        "logic_depth": 18
+    },
+    {
+        "fan_in": 32,
+        "fan_out": 16,
+        "gate_count": 30,
+        "path_length": 15,
+        "logic_depth": 8
+    },
+    {
+        "fan_in": 9,
+        "fan_out": 20,
+        "gate_count": 154,
+        "path_length": 9,
+        "logic_depth": 17
+    },
+    {
+        "fan_in": 42,
+        "fan_out": 14,
+        "gate_count": 166,
+        "path_length": 9,
+        "logic_depth": 21
+    },
+    {
+        "fan_in": 20,
+        "fan_out": 13,
+        "gate_count": 115,
+        "path_length": 41,
+        "logic_depth": 23
+    },
+    {
+        "fan_in": 7,
+        "fan_out": 30,
+        "gate_count": 49,
+        "path_length": 11,
+        "logic_depth": 16
+    },
+    {
+        "fan_in": 30,
+        "fan_out": 26,
+        "gate_count": 154,
+        "path_length": 13,
+        "logic_depth": 19
+    },
+    {
+        "fan_in": 11,
+        "fan_out": 20,
+        "gate_count": 108,
+        "path_length": 25,
+        "logic_depth": 9
+    },
+    {
+        "fan_in": 15,
+        "fan_out": 6,
+        "gate_count": 146,
+        "path_length": 12,
+        "logic_depth": 23
+    },
+    {
+        "fan_in": 32,
+        "fan_out": 26,
+        "gate_count": 122,
+        "path_length": 34,
+        "logic_depth": 17
+    },
+    {
+        "fan_in": 30,
+        "fan_out": 27,
+        "gate_count": 154,
+        "path_length": 26,
+        "logic_depth": 24
+    },
+    {
+        "fan_in": 28,
+        "fan_out": 19,
+        "gate_count": 152,
+        "path_length": 24,
+        "logic_depth": 25
+    },
+    {
+        "fan_in": 9,
+        "fan_out": 26,
+        "gate_count": 63,
+        "path_length": 6,
+        "logic_depth": 23
+    },
+    {
+        "fan_in": 41,
+        "fan_out": 17,
+        "gate_count": 110,
+        "path_length": 8,
+        "logic_depth": 14
+    },
+    {
+        "fan_in": 30,
+        "fan_out": 5,
+        "gate_count": 193,
+        "path_length": 50,
+        "logic_depth": 21
+    },
+    {
+        "fan_in": 45,
+        "fan_out": 26,
+        "gate_count": 179,
+        "path_length": 43,
+        "logic_depth": 14
+    },
+    {
+        "fan_in": 21,
+        "fan_out": 20,
+        "gate_count": 52,
+        "path_length": 33,
+        "logic_depth": 9
+    },
+    {
+        "fan_in": 50,
+        "fan_out": 7,
+        "gate_count": 182,
+        "path_length": 49,
+        "logic_depth": 19
+    },
+    {
+        "fan_in": 24,
+        "fan_out": 24,
+        "gate_count": 27,
+        "path_length": 28,
+        "logic_depth": 21
+    },
+    {
+        "fan_in": 9,
+        "fan_out": 8,
+        "gate_count": 87,
+        "path_length": 7,
+        "logic_depth": 24
+    },
+    {
+        "fan_in": 39,
+        "fan_out": 13,
+        "gate_count": 24,
+        "path_length": 38,
+        "logic_depth": 18
+    },
+    {
+        "fan_in": 13,
+        "fan_out": 27,
+        "gate_count": 149,
+        "path_length": 26,
+        "logic_depth": 8
+    },
+    {
+        "fan_in": 21,
+        "fan_out": 7,
+        "gate_count": 165,
+        "path_length": 7,
+        "logic_depth": 14
+    },
+    {
+        "fan_in": 14,
+        "fan_out": 17,
+        "gate_count": 117,
+        "path_length": 43,
+        "logic_depth": 13
+    },
+    {
+        "fan_in": 30,
+        "fan_out": 26,
+        "gate_count": 130,
+        "path_length": 37,
+        "logic_depth": 15
+    },
+    {
+        "fan_in": 5,
+        "fan_out": 4,
+        "gate_count": 30,
+        "path_length": 23,
+        "logic_depth": 25
+    },
+    {
+        "fan_in": 17,
+        "fan_out": 26,
+        "gate_count": 34,
+        "path_length": 41,
+        "logic_depth": 13
+    },
+    {
+        "fan_in": 12,
+        "fan_out": 20,
+        "gate_count": 52,
+        "path_length": 20,
+        "logic_depth": 18
+    },
+    {
+        "fan_in": 49,
+        "fan_out": 7,
+        "gate_count": 159,
+        "path_length": 43,
+        "logic_depth": 9
+    },
+    {
+        "fan_in": 11,
+        "fan_out": 21,
+        "gate_count": 167,
+        "path_length": 27,
+        "logic_depth": 18
+    },
+    {
+        "fan_in": 23,
+        "fan_out": 25,
+        "gate_count": 61,
+        "path_length": 9,
+        "logic_depth": 9
+    },
+    {
+        "fan_in": 21,
+        "fan_out": 26,
+        "gate_count": 85,
+        "path_length": 23,
+        "logic_depth": 14
+    },
+    {
+        "fan_in": 26,
+        "fan_out": 9,
+        "gate_count": 22,
+        "path_length": 16,
+        "logic_depth": 20
+    },
+    {
+        "fan_in": 27,
+        "fan_out": 16,
+        "gate_count": 162,
+        "path_length": 28,
+        "logic_depth": 9
+    },
+    {
+        "fan_in": 13,
+        "fan_out": 23,
+        "gate_count": 65,
+        "path_length": 11,
+        "logic_depth": 17
+    },
+    {
+        "fan_in": 39,
+        "fan_out": 29,
+        "gate_count": 106,
+        "path_length": 37,
+        "logic_depth": 23
+    },
+    {
+        "fan_in": 18,
+        "fan_out": 28,
+        "gate_count": 153,
+        "path_length": 39,
+        "logic_depth": 14
+    },
+    {
+        "fan_in": 26,
+        "fan_out": 18,
+        "gate_count": 63,
+        "path_length": 42,
+        "logic_depth": 15
+    },
+    {
+        "fan_in": 9,
+        "fan_out": 12,
+        "gate_count": 29,
+        "path_length": 38,
+        "logic_depth": 13
+    },
+    {
+        "fan_in": 36,
+        "fan_out": 29,
+        "gate_count": 110,
+        "path_length": 16,
+        "logic_depth": 11
+    },
+    {
+        "fan_in": 28,
+        "fan_out": 21,
+        "gate_count": 193,
+        "path_length": 26,
+        "logic_depth": 20
+    },
+    {
+        "fan_in": 8,
+        "fan_out": 16,
+        "gate_count": 167,
+        "path_length": 31,
+        "logic_depth": 13
+    },
+    {
+        "fan_in": 49,
+        "fan_out": 16,
+        "gate_count": 62,
+        "path_length": 43,
+        "logic_depth": 20
+    },
+    {
+        "fan_in": 47,
+        "fan_out": 28,
+        "gate_count": 135,
+        "path_length": 45,
+        "logic_depth": 21
+    },
+    {
+        "fan_in": 42,
+        "fan_out": 29,
+        "gate_count": 145,
+        "path_length": 50,
+        "logic_depth": 12
+    },
+    {
+        "fan_in": 48,
+        "fan_out": 15,
+        "gate_count": 77,
+        "path_length": 34,
+        "logic_depth": 8
+    },
+    {
+        "fan_in": 14,
+        "fan_out": 28,
+        "gate_count": 100,
+        "path_length": 9,
+        "logic_depth": 17
+    },
+    {
+        "fan_in": 15,
+        "fan_out": 16,
+        "gate_count": 124,
+        "path_length": 32,
+        "logic_depth": 10
+    },
+    {
+        "fan_in": 38,
+        "fan_out": 30,
+        "gate_count": 63,
+        "path_length": 28,
+        "logic_depth": 11
+    },
+    {
+        "fan_in": 25,
+        "fan_out": 7,
+        "gate_count": 131,
+        "path_length": 21,
+        "logic_depth": 19
+    },
+    {
+        "fan_in": 37,
+        "fan_out": 28,
+        "gate_count": 157,
+        "path_length": 6,
+        "logic_depth": 17
+    },
+    {
+        "fan_in": 14,
+        "fan_out": 29,
+        "gate_count": 78,
+        "path_length": 27,
+        "logic_depth": 12
+    },
+    {
+        "fan_in": 6,
+        "fan_out": 13,
+        "gate_count": 70,
+        "path_length": 38,
+        "logic_depth": 8
+    },
+    {
+        "fan_in": 12,
+        "fan_out": 11,
+        "gate_count": 168,
+        "path_length": 34,
+        "logic_depth": 13
+    },
+    {
+        "fan_in": 36,
+        "fan_out": 22,
+        "gate_count": 172,
+        "path_length": 49,
+        "logic_depth": 20
+    },
+    {
+        "fan_in": 23,
+        "fan_out": 4,
+        "gate_count": 78,
+        "path_length": 36,
+        "logic_depth": 22
+    },
+    {
+        "fan_in": 25,
+        "fan_out": 23,
+        "gate_count": 42,
+        "path_length": 43,
+        "logic_depth": 22
+    },
+    {
+        "fan_in": 8,
+        "fan_out": 6,
+        "gate_count": 137,
+        "path_length": 13,
+        "logic_depth": 9
+    },
+    {
+        "fan_in": 15,
+        "fan_out": 22,
+        "gate_count": 117,
+        "path_length": 23,
+        "logic_depth": 25
+    },
+    {
+        "fan_in": 43,
+        "fan_out": 3,
+        "gate_count": 72,
+        "path_length": 46,
+        "logic_depth": 16
+    },
+    {
+        "fan_in": 14,
+        "fan_out": 19,
+        "gate_count": 181,
+        "path_length": 23,
+        "logic_depth": 10
+    }
+]

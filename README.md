@@ -1,6 +1,3 @@
-Here is a **README.md** file for your GitHub repository:  
-
----
 
 ## **AI Timing Violation Prediction**  
 🚀 **Predict Logic Depth in Digital Circuits using Machine Learning**  
@@ -14,7 +11,6 @@ This project builds a **machine learning model** to predict **logic depth** in d
 ✅ **User Input Friendly** – Predicts logic depth using interactive inputs.  
 ✅ **Fully Automated Workflow** – From dataset creation to prediction.  
 
----
 
 ### **📂 Project Structure**
 ```
@@ -25,7 +21,6 @@ This project builds a **machine learning model** to predict **logic depth** in d
 │── 📄 README.md          # Project documentation
 ```
 
----
 
 ### **⚡ Setup Instructions**
 #### **1️⃣ Install Dependencies**
@@ -60,14 +55,12 @@ Path Length: 10
 🟢 Predicted Logic Depth: 13.62
 ```
 
----
 
 ### **🔧 How It Works**
 1. **Dataset Creation**: Generates a dataset of `num_samples` circuit parameters.  
 2. **Model Training**: Trains a **RandomForestRegressor** to predict logic depth.  
 3. **User Input Prediction**: Takes input parameters and predicts **logic depth**.  
 
----
 
 ### **🛠 Technologies Used**
 - 🐍 Python  
@@ -75,7 +68,6 @@ Path Length: 10
 - 🤖 Scikit-learn (Machine Learning)  
 - 📂 Joblib (Model Saving)  
 
----
 
 ### **📌 Contributing**
 Contributions are welcome! Fork the repo, make improvements, and submit a pull request.  
